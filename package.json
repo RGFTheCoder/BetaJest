@@ -1,0 +1,16 @@
+{
+    "name": "screenshotvirus",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "desktop-screenshot": "^0.1.1",
+        "express": "^4.16.3",
+        "socket.io-client": "^2.1.1"
+    }
+}
